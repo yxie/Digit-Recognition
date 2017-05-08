@@ -1,4 +1,4 @@
-# ENEE633-Digit-Recognization
+# ENEE633-Digit-Recognition
 Project 2 for ENEE633 Statistical Pattern Recognition course at UMD
 
 In this project, a Support Vector Machine (SVM) classifier and a Convolutional Neural Network (CNN) are implemented to classify the MNIST dataset.
